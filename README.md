@@ -1,6 +1,6 @@
 # Distort videos
 
-[![Distorted video example](https://img.youtube.com/vi/jM7Vzzkz8z0/0.jpg)](https://www.youtube.com/watch?v=jM7Vzzkz8z0)
+[![Distorted video example](https://i.ibb.co/cXzQMHm/github-thumbnail.jpg)](https://www.youtube.com/watch?v=jM7Vzzkz8z0)
 
 Applies a [Seam Carving](https://en.wikipedia.org/wiki/Seam_carving) algorithm (aka liquid rescale) on every frame of a video, and a vibrato effect on the audio to distort the video
 
