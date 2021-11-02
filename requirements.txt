@@ -1,0 +1,3 @@
+tkinter
+ffmpeg-python
+opencv-python
